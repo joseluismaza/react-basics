@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Anton", system-ui;
+  color: var(--rtc-color-2);
+}
+
+:root{
+  --rtc-color-1:#000000;
+  --rtc-color-2:#ffffff;
+  --rtc-color-3:#f7d708;
+  --rtc-color-4:#c09c30;
+  --rtc-color-5:#5b7e9a;
+}
+
+body{
+  background-color: var(--rtc-color-1);
+
+}
